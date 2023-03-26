@@ -11,7 +11,6 @@ function handleFocus(){
         
     // )
 }
-
     return (
         <div>
             <input type="text" onBlur={handleFocus} />
